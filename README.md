@@ -14,18 +14,24 @@
   - Introdução do Projeto
   - Expectativas sobre o Matemática Discreta AplicadaMatemática Discreta AplicadaProjeto
   - Sobre Mim
+
 ### Conceitos Matemáticos Básicos
   - Operações Matemáticas Básicas
   - Lógica Proposicional
   - Teoria dos Conjuntos
   - Funções e abstrações
 
-## Aprofundamento Matemático
+### Aprofundamento Matemático
   - Algebra Linear
   - Cálculo Multivariável e Otimização
   - Matemática Discreta Aplicada
 
 ### Projeções Geométricas
-  - **TODO**
+  - *TODO*
 
+### Conversando com o Hardware
+  - *TODO*
+
+### Compactação e Hashing
+  - *TODO*
 >*NOTA :* Os conceitos estão organizados da seguinte forma em complexidade e não necessariamente tem relações estritas entre si
