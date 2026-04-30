@@ -34,4 +34,11 @@
 
 ### Compactação e Hashing
   - *TODO*
+
+### Referências
+  - Conceitos Matemáticos Básicos
+  - Aprofundamento Matemático
+  - Projeções Geométricas
+  - Conversando com o Hardware
+  - Compactação e Hashing
 >*NOTA :* Os conceitos estão organizados da seguinte forma em complexidade e não necessariamente tem relações estritas entre si
