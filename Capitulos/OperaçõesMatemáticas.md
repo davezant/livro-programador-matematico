@@ -8,4 +8,3 @@ Eu acredito que todos vocês sabem as operações matemáticas mais básicas com
 | Subtração           | 3 - 2            | 1         |             |
 | Multiplicação       | 3 * 2            | 5         |             |
 | Divisão             | 3 / 2            | 1.5       |             |
-........
